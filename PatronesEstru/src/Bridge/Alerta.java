@@ -8,6 +8,7 @@ public class Alerta extends Notificacion{
         super(forma, name);
         this.hora = hora;
         this.text = text;
+        System.out.println(" Se ha programado alerta "+ name+ " para la hora "+ hora+ "\n Descripcion: "+text);
     }
 
     @Override
@@ -16,11 +17,6 @@ public class Alerta extends Notificacion{
         System.out.println("ALERTA "+""+ name +""+": " + text);
         System.out.println("------------------------------------------------------------------------");
 
-       // Esto iria en el programar alarma
-        // System.out.println("La alarma "+ name + "esta programada para las "+hora+" hs y tiene una duracion de "+ duracion+ " min");
     }
 
-    public void programarAlerta (String name, String hora, String contenido){
-        System.out.println(" Se ha programado alerta "+ name+ " para la hora "+ hora);
-    }
 }

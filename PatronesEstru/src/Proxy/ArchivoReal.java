@@ -8,7 +8,7 @@ public class ArchivoReal implements Archivo {
         cargarArchivo();
     }
 
-    public void cargarArchivo (){
+    private void cargarArchivo (){
         System.out.println("El archivo "+ nombre + " se esta cargando");
     }
 

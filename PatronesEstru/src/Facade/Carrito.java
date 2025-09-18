@@ -10,14 +10,14 @@ public class Carrito {
 
     public void addArticulo (Articulo art){
         articulos.add(art);
-        System.out.println("\uD83D\uDED2 Se agrego el articulo "+art.getNombre());
+        System.out.println(" Se agrego el articulo "+art.getNombre());
     }
     public void eliminarArticulo (Articulo art){
         articulos.remove(art);
         System.out.println("El articulo "+ art.getNombre()+ " se ha eliminado del carrito");
     }
     public void mostrarCarrito (){
-        System.out.println("\n\uD83D\uDCCB Los articulos que se encuentran en el carrito son: \n");
+        System.out.println("\n+ Los articulos que se encuentran en el carrito son: \n");
         for (Articulo articulo : articulos){
             System.out.println("* "+articulo);
             System.out.println("\n");

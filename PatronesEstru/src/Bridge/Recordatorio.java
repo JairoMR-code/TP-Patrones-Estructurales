@@ -17,10 +17,8 @@ public class Recordatorio extends Notificacion{
     @Override
     public void notificar() {
         System.out.println("* Recordatorio * ");
-        System.out.println(new StringBuilder().append("El examen es un").append(this.name).append(". El cual se dictara el dia:  ").append(fecha).toString());
+        System.out.println(new StringBuilder().append("El examen es un ").append(super.name).append(". El cual se dictara el dia:  ").append(fecha).toString());
         System.out.println(contenido);
     }
-    public void addRecordatorio (String name, String contenido){
 
-    }
 }

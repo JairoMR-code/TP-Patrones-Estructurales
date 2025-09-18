@@ -22,7 +22,7 @@ public class Main {
 
            //Facade
 
-            Articulo art1 = new Articulo("Lapto", 2000, 2);
+          /*  Articulo art1 = new Articulo("Lapto", 2000, 2);
             Articulo art2 = new Articulo("Table S31", 4000, 1);
             Articulo art3 = new Articulo("Celular A31", 1500, 2);
 
@@ -42,7 +42,7 @@ public class Main {
             facade.elegirArticulos(art5);
             facade.elegirArticulos(art3);
 
-            facade.realizarCompra("Lujan De Cuyo","tarjeta");
+            facade.realizarCompra("Lujan De Cuyo","tarjeta");*/
 
             //Flyweight
 
