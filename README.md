@@ -48,9 +48,9 @@ TP-PatronesCreacionales/
 │ ├── Proxy/  
 │ │ ├── Main.java   ← Punto de entrada de la aplicación   
 │ │ └── ....        ← Clases que implementan los patrones   
-├── .gitignore
-├── LICENSE
-└── README.md
+├── .gitignore  
+├── LICENSE  
+└── README.md  
 
 
 - `Main.java` contiene la clase principal que ejecuta ejemplos de los patrones.
