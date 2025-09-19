@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823aa299-f9ef-44d1-ad47-3c339d00f867" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PatronesEstru/src/Adapter/ImpresoraAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatronesEstru/src/Adapter/ImpresoraAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatronesEstru/src/Adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PatronesEstru/src/Adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="32vfMeMqRuEjZbAs3X6FdN570Dk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Bangho/OneDrive/Escritorio/UTN/3K10 o 2v6/Desarrollo de Sotfware/TP-PatronEstructural/TP-Patrones-Estructurales"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823aa299-f9ef-44d1-ad47-3c339d00f867" name="Changes" comment="" />
+      <created>1758305920629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758305920629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
